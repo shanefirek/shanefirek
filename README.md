@@ -1,6 +1,6 @@
 ### Shane Firek
 
-GTM Engineer. I build AI-native revenue infrastructure — enrichment pipelines, CRM automation, outbound orchestration, attribution systems. Code-first, not vendor-dependent.
+GTM Engineer. I build AI-native revenue infrastructure — enrichment pipelines, CRM automation, outbound orchestration, attribution systems. Claude Code first, not vendor-dependent.
 
 **What I build:**
 - Production GTM systems (Trigger.dev, HubSpot, Salesforce, Clay)
