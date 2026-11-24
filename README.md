@@ -15,7 +15,6 @@ GTM Systems Architect. I build acquisition infrastructure as production software
 - [HubSpot Provisioner](https://github.com/shanefirek/hubspot-provisioner-template) — one install provisions a GTM-ready portal in ~30 seconds
 - [MCP Security Scanner](https://github.com/shanefirek/mcp-security-scanner) — NSA-guidance-mapped static scanner, 35+ checks across 11 threat categories
 - [MCP Handbook](https://github.com/shanefirek/mcp-handbook) — plain-English guides to MCP servers
-- [Clay MCP Server](https://github.com/shanefirek/clay-mcp-public) — a map of Clay's internal API surface, as of May 2026
 - [Porkbun MCP Server](https://github.com/shanefirek/porkbun-mcp-server) — domain registration + DNS from Claude Code
 
 **Links:** [shanefirek.com](https://shanefirek.com) · [LinkedIn](https://linkedin.com/in/shanefirek) · [X](https://x.com/shanefgtm)
